@@ -1,0 +1,1 @@
+export {AddAnimal as default} from './addAnimal';

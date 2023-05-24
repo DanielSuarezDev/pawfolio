@@ -1,0 +1,1 @@
+export {AnimalList as default} from './animalList';
